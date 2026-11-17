@@ -1,0 +1,82 @@
+[
+  {
+    "citationId": "CGST-SEC-16-2",
+    "actOrCircular": "Central Goods and Services Tax Act, 2017",
+    "sectionRef": "Section 16(2)(aa)",
+    "title": "Conditions for Availment of Input Tax Credit",
+    "summary": "A registered person is entitled to claim ITC only when the invoice details are furnished by the supplier in Form GSTR-1 and communicated to the recipient in Form GSTR-2B, subject to valid tax invoice, receipt of goods/services, and return filing.",
+    "effectiveFrom": "2022-01-01"
+  },
+  {
+    "citationId": "CGST-SEC-73-1",
+    "actOrCircular": "Central Goods and Services Tax Act, 2017",
+    "sectionRef": "Section 73(1)",
+    "title": "Determination of Tax Not Paid or Short Paid (Non-Fraud Cases)",
+    "summary": "Applies where tax has not been paid, short paid, or ITC wrongly availed for reasons other than fraud, wilful misstatement, or suppression of facts. Proper officer must serve show cause notice at least 3 months prior to the adjudication time limit.",
+    "effectiveFrom": "2017-07-01"
+  },
+  {
+    "citationId": "CGST-SEC-74-1",
+    "actOrCircular": "Central Goods and Services Tax Act, 2017",
+    "sectionRef": "Section 74(1)",
+    "title": "Determination of Tax by Reason of Fraud or Wilful Misstatement",
+    "summary": "Invoked only where specific ingredients of fraud, wilful misstatement, or suppression of facts to evade tax are established with documentary evidence; mere GSTR-2B vs 3B difference does not automatically justify Section 74.",
+    "effectiveFrom": "2017-07-01"
+  },
+  {
+    "citationId": "CGST-RULE-36-4",
+    "actOrCircular": "CGST Rules, 2017",
+    "sectionRef": "Rule 36(4)",
+    "title": "Documentary Requirements and GSTR-2B Restriction on ITC",
+    "summary": "No input tax credit shall be availed by a registered person in respect of invoices or debit notes unless the details thereof have been furnished by the supplier in GSTR-1/IFF and reflected in Form GSTR-2B.",
+    "effectiveFrom": "2022-01-01"
+  },
+  {
+    "citationId": "CBIC-CIR-183-15-2022",
+    "actOrCircular": "CBIC Circular No. 183/15/2022-GST",
+    "sectionRef": "Circular 183/15/2022",
+    "title": "Clarification on Difference in ITC Between GSTR-3B and GSTR-2A/2B",
+    "summary": "Provides procedure for verifying bona fide ITC claims where differences arise due to supplier reporting errors (e.g., B2B reported as B2C or wrong recipient GSTIN), allowing CA/CMA certificate where differential ITC exceeds Rs. 5 lakh or supplier declaration below Rs. 5 lakh.",
+    "effectiveFrom": "2022-12-27"
+  },
+  {
+    "citationId": "CBIC-CIR-193-05-2023",
+    "actOrCircular": "CBIC Circular No. 193/05/2023-GST",
+    "sectionRef": "Circular 193/05/2023",
+    "title": "Clarification on ITC Mismatch Verification for FY 2019-20 to FY 2021-22",
+    "summary": "Extends the verification methodology of Circular 183/15/2022 to subsequent periods prior to the strict enforcement of Section 16(2)(aa), enabling taxpayers to substantiate genuine purchases through tax invoices, bank payment proof, and supplier confirmations.",
+    "effectiveFrom": "2023-07-17"
+  },
+  {
+    "citationId": "CGST-SEC-17-5",
+    "actOrCircular": "Central Goods and Services Tax Act, 2017",
+    "sectionRef": "Section 17(5)",
+    "title": "Blocked Credits (Ineligible ITC)",
+    "summary": "Specifies categories where ITC is blocked notwithstanding Section 16(1), including motor vehicles for transportation of persons with seating capacity up to 13 persons (except specified business uses), food/beverages, and works contract for immovable property.",
+    "effectiveFrom": "2017-07-01"
+  },
+  {
+    "citationId": "CGST-SEC-50-3",
+    "actOrCircular": "Central Goods and Services Tax Act, 2017",
+    "sectionRef": "Section 50(3)",
+    "title": "Interest on Wrongly Availed and Utilized Input Tax Credit",
+    "summary": "Retrospectively amended so that interest at 18% per annum is leviable only where ITC has been both wrongly availed AND utilized, calculated from the date of utilization until reversal or payment.",
+    "effectiveFrom": "2017-07-01"
+  },
+  {
+    "citationId": "CGST-RULE-88D",
+    "actOrCircular": "CGST Rules, 2017",
+    "sectionRef": "Rule 88D",
+    "title": "Manner of Dealing with Difference in ITC Available in Form GSTR-2B and GSTR-3B",
+    "summary": "Where ITC availed in GSTR-3B exceeds GSTR-2B beyond prescribed limits, Form DRC-01C is issued requiring the taxpayer within 7 days to either pay the excess ITC with interest or furnish reasons explaining the discrepancy.",
+    "effectiveFrom": "2023-08-04"
+  },
+  {
+    "citationId": "CGST-SEC-16-4",
+    "actOrCircular": "Central Goods and Services Tax Act, 2017",
+    "sectionRef": "Section 16(4)",
+    "title": "Time Limit for Availing Input Tax Credit",
+    "summary": "A registered person shall not be entitled to take ITC in respect of any invoice or debit note after the 30th day of November following the end of the financial year to which such invoice pertains, or furnishing of the relevant annual return, whichever is earlier.",
+    "effectiveFrom": "2022-10-01"
+  }
+]
