@@ -3,3 +3,5 @@ target/
 .vscode/
 *.iml
 application-dev.properties
+
+hs_err_pid*.log
