@@ -28,6 +28,36 @@ Handling GST notices manually can be time-consuming and error-prone.
 - Challenges in organizing supporting documents and references.
 - Risk of exposing sensitive taxpayer information.
 
+## Our Solution
+
+Aurev provides a centralized workspace to:
+
+- Upload GST notices and supporting financial documents.
+- Analyze invoice-level differences between purchase records and GSTR-2B.
+- Identify matched, mismatched, and partially matched invoices.
+- Generate structured, editable legal reply drafts.
+- Organize relevant legal references and citations for verification.
+- Maintain a PII masking and audit workflow.
+
+## Key Features
+
+### 1. GST Document Upload
+Upload the documents required for GST notice analysis:
+
+- GST Notice (PDF)
+- GSTR-2B Data (JSON)
+- Purchase Register (JSON)
+
+### 2. ITC Reconciliation
+Compare purchase register data against GSTR-2B and identify:
+
+- Matched invoices
+- Mismatched invoices
+- Partial matches
+- ITC differences
+
+### 3. AI-Assisted Legal Reply Drafting
+Generate structured GST notice response drafts that can be reviewed and edited before use.
 
 ### 4. Legal References & Citations
 Organize relevant circulars and supporting references to help users verify the legal basis of a response.
