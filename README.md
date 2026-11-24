@@ -14,34 +14,20 @@ An intelligent workspace designed to help businesses and tax professionals analy
 
 Aurev is an AI-powered GST compliance assistant designed to simplify the complex process of handling GST notices.
 
-Aurev provides a centralized workspace to:
+Businesses and Chartered Accountants often spend significant time reviewing GST notices, comparing purchase records with GSTR-2B data, identifying Input Tax Credit (ITC) mismatches, and preparing legal responses.
 
-- Upload GST notices and supporting financial documents.
-- Analyze invoice-level differences between purchase records and GSTR-2B.
-- Identify matched, mismatched, and partially matched invoices.
-- Generate structured, editable legal reply drafts.
-- Organize relevant legal references and citations for verification.
-- Maintain a PII masking and audit workflow.
+Aurev aims to bring these workflows into one unified platform through document processing, automated reconciliation, AI-assisted drafting, and data privacy auditing.
 
-## Key Features
+## The Problem
 
-### 1. GST Document Upload
-Upload the documents required for GST notice analysis:
+Handling GST notices manually can be time-consuming and error-prone.
 
-- GST Notice (PDF)
-- GSTR-2B Data (JSON)
-- Purchase Register (JSON)
+- Manual comparison of purchase registers and GSTR-2B data.
+- Difficulty identifying invoice-level ITC mismatches.
+- Time-consuming preparation of legal replies.
+- Challenges in organizing supporting documents and references.
+- Risk of exposing sensitive taxpayer information.
 
-### 2. ITC Reconciliation
-Compare purchase register data against GSTR-2B and identify:
-
-- Matched invoices
-- Mismatched invoices
-- Partial matches
-- ITC differences
-
-### 3. AI-Assisted Legal Reply Drafting
-Generate structured GST notice response drafts that can be reviewed and edited before use.
 
 ### 4. Legal References & Citations
 Organize relevant circulars and supporting references to help users verify the legal basis of a response.
@@ -207,3 +193,26 @@ Aurev is a software project intended to assist with GST document analysis and re
 - Downloadable DOCX and PDF reports.
 - Enhanced document security and privacy controls.
 
+## Contributing
+
+Contributions, suggestions, and feedback are welcome.
+
+1. Fork the repository.
+2. Create a new feature branch.
+3. Make your changes.
+4. Commit your changes.
+5. Submit a Pull Request.
+
+## License
+
+A license has not yet been specified. Please check the repository for licensing information before reusing or distributing this project.
+
+---
+
+<p align="center">
+
+**Aurev — Making GST Compliance Smarter.**
+
+Built with the vision of simplifying complex compliance workflows through technology.
+
+</p>
